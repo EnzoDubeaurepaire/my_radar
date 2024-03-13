@@ -11,7 +11,7 @@ To build **My Radar**, follow these simple steps:
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/your_username/my_radar.git
+    git clone https://github.com/EnzoDubeaurepaire/my_radar.git
     ```
 
 2. Navigate to the project directory:
